@@ -34,6 +34,6 @@ Plet
 
 ## License
 
-Copyright © 2017 cwFIXME
+Copyright © 2017 Hjalmar Ekengren
 
 Distributed under the Eclipse Public License version 1.0
